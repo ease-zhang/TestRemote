@@ -7,3 +7,5 @@ merged the above
 changed again to show difftool
 
 check log for a single file
+
+changed this file to check part checkout.
